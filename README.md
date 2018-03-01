@@ -10,6 +10,6 @@ a settlement, you complete assignments. The thief becomes the goose. Players can
 and achievements all help players to gain victory points. The first student to achieve 10 victory points wins the game!
 (other rules from catan still apply, eg: no 2 assignments can be completed exactly with one goal connecting them(they cannot be beside each other)! 
 
-Contact me at jesselingxunmeng@gmail.com for more info, or visit me at jessemeng.com!
+Contact me at jesse@jessemeng.com for more info, or visit me at jessemeng.com!
 
 ![alt text](https://github.com/JesseMeng/Waterloo-Catan/blob/master/catan.PNG)
